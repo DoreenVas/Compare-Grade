@@ -1,0 +1,3 @@
+/home/doreen/Documents/operating_systems/ex3/example/students
+/home/doreen/Documents/operating_systems/ex3/example/input.txt
+/home/doreen/Documents/operating_systems/ex3/example/correctOutput.txt
